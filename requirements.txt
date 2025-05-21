@@ -1,0 +1,9 @@
+streamlit>=1.32
+google-generativeai
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers[onnx]
+pillow
+PyMuPDF
